@@ -1,0 +1,10 @@
+Demirel Topel, Seda, Demir, Emre, Öztürk, Yusuf, Börekçi, Selim, Bilge, Alper, and Seyman, Alper. "The importance of electric field distribution for effective in vivo electroporation of tissues." Biophysical 22 (2022): 441-456.
+Tur, Mustafa Kürşat Yavuz. "Designing CNN model to predict bank credit analysis." IEEE 99 (2023): 271-281. 
+Taheri, Shahram, and Önsen, Toygar. "On the use of DAG-CNN architecture for age estimation with multi-stage features fusion." Neurocomputing 329 (2019): 300-310. 
+Yüksek, İsmail, Çalışkan, Cafer, and Erten, Cesim. "Implementing advanced algorithms to find the efficiency of RSA algorithm." Distopia 12 (2011): 21-45. 
+Temel, Dursun, Ulaş, Mehmet, Yıldız, Tilbe, and Ijeloula, Esther. "AI and Game Playing Trees." IEEE 234 (1997): 24-28. 
+Aslan, Göksel, Yüksek, Kemal Adem, Kazan, Hilal, Turan, Gözde, and Dipova, Nihat. "How to imlement computer graphics and distributed database systems to civil engineering applications." ResearchGate 234 (2016): 101-151.
+Şimşek, Hakan, Ülgen, Semail, Arslan, Engin, Vural, Hülya, Şeker, Şadi Evren, and Ağıralioğlu, Necati. "Using AI and Data Science for aaplications of Industrial Engineering and Civil Engineering." ResearchGate 31 (2022): 120-189.
+Talha, Muhammed, Göksu, Pınar, Bryant, Kobe, and Dilber, Şule. "2-D Object Detection using Backtracking Search." ArtificialIntelligence 11 (2002): 34-44. 
+Erdoğan, Gürkan. "GaAs PIN Photodiode Design using COMSOL Simulation." IEEE 902 (2014): 12-25. 
+Okuyucu, Serdar, Arslan, Menduh Furkan, and Kayan, Anıl. "Microprocessor architecture: from simple pipelines to chip multiprocessors." Micromachines 134 (2016): 456-501. 

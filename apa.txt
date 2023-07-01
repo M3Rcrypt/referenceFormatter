@@ -1,0 +1,10 @@
+Demirel Topel, S., Demir, E., Öztürk, Y., Börekçi, S., Bilge, A., & Seyman, A. (2022). The importance of electric field distribution for effective in vivo electroporation of tissues. Biophysical, 22, 441-456.
+Tur, M. (2023). Designing CNN model to predict bank credit analysis. IEEE, 99, 271-281.
+Taheri, S., & Önsen, T. (2019). On the use of DAG-CNN architecture for age estimation with multi-stage features fusion. Neurocomputing, 329, 300-310.
+Yüksek, �., Çalışkan, C., & Erten, C. (2011). Implementing advanced algorithms to find the efficiency of RSA algorithm. Distopia, 12, 21-45.
+Temel, D., Ulaş, M., Yıldız, T., & Ijeloula, E. (1997). AI and Game Playing Trees. IEEE, 234, 24-28.
+Aslan, G., Yüksek, K., Kazan, H., Turan, G., & Dipova, N. (2016). How to imlement computer graphics and distributed database systems to civil engineering applications. ResearchGate, 234, 101-151.
+Şimşek, H., Ülgen, S., Arslan, E., Vural, H., Şeker, �., & Ağıralioğlu, N. (2022). Using AI and Data Science for aaplications of Industrial Engineering and Civil Engineering. ResearchGate, 31, 120-189.
+Talha, M., Göksu, P., Bryant, K., & Dilber, �. (2002). 2-D Object Detection using Backtracking Search. ArtificialIntelligence, 11, 34-44.
+Erdoğan, G. (2014). GaAs PIN Photodiode Design using COMSOL Simulation. IEEE, 902, 12-25.
+Okuyucu, S., Arslan, M., & Kayan, A. (2016). Microprocessor architecture: from simple pipelines to chip multiprocessors. Micromachines, 134, 456-501.
