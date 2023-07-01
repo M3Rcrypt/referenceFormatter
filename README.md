@@ -23,7 +23,7 @@ e.g. Taheri, Shahram, and Önsen, Toygar. "On the use of DAG-CNN architecture fo
 e.g. Tur, Mustafa Kürşat Yavuz. "Designing CNN model to predict bank credit analysis." IEEE 99 (2023): 271-281. <br /> <br />
 
 
-After transforming the references to APA format the format will be as follows (for six authors):
-{Surname1}, {The first letter of Name1}., {Surname2}, {The first letter of Name2}., {Surname3}, {The first letter of Name3}., {Surname4}, {The first letter of Name4}., {Surname5}, {The first letter of Name5}., & {Surname6}, {The first letter of Name6}. ({YearOfPublication}). {ArticleTitle}. {JournalName}, {IssueNumber}, {PageFrom}-{PageTo}. 
-e.g. Demirel Topel, S., Demir, E., Öztürk, Y., Börekçi, S., Bilge, A., & Seyman, A. (2022). The importance of electric field distribution for effective in vivo electroporation of tissues. Biophysical, 22, 441-456.
+After transforming the references to APA format the format will be as follows (for six authors): <br /> <br />
+{Surname1}, {The first letter of Name1}., {Surname2}, {The first letter of Name2}., {Surname3}, {The first letter of Name3}., {Surname4}, {The first letter of Name4}., {Surname5}, {The first letter of Name5}., & {Surname6}, {The first letter of Name6}. ({YearOfPublication}). {ArticleTitle}. {JournalName}, {IssueNumber}, {PageFrom}-{PageTo}.  <br /> <br />
+e.g. Demirel Topel, S., Demir, E., Öztürk, Y., Börekçi, S., Bilge, A., & Seyman, A. (2022). The importance of electric field distribution for effective in vivo electroporation of tissues. Biophysical, 22, 441-456. <br />
 and so on.
