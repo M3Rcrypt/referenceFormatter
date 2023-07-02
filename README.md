@@ -4,7 +4,9 @@ This C program converts the MLA references in a txt file to APA references and s
 There can be maximum of six authors. 
 
 * If there are six authors, the format of MLA is as follows: <br /> <br />
+```diff
 {Surname1}, {Name1}, {Surname2}, {Name2}, {Surname3}, {Name3}, {Surname4}, {Name4}, {Surname5}, {Name5}, and {Surname6}, {Name6}. "{ArticleTitle}." {JournalName} {IssueNumber} ({YearOfPublication}): {PageFrom}-{PageTo}.<br /> <br />
+```
 e.g. Demirel Topel, Seda, Demir, Emre, Öztürk, Yusuf, Börekçi, Selim, Bilge, Alper, and Seyman, Alper. "The importance of electric field distribution for effective in vivo electroporation of tissues." Biophysical 22 (2022): 441-456. <br /> <br />
 * If there are five authors, the format of MLA is as follows: <br /> <br />
 {Surname1}, {Name1}, {Surname2}, {Name2}, {Surname3}, {Name3}, {Surname4}, {Name4}, and {Surname5}, {Name5}. "{ArticleTitle}." {JournalName} {IssueNumber} ({YearOfPublication}): {PageFrom}-{PageTo}. <br /> <br />
